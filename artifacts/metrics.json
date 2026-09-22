@@ -1,0 +1,12 @@
+{
+  "precision_at_10": 0.11876379690949226,
+  "recall_at_10": 0.1629039758451004,
+  "baseline_precision_at_10": 0.07682119205298013,
+  "baseline_recall_at_10": 0.07476563408165164,
+  "rmse": 2.466109796002435,
+  "explained_variance": 0.5123045270601514,
+  "train_rows": 80367,
+  "test_rows": 19633,
+  "users": 943,
+  "movies": 1682
+}
